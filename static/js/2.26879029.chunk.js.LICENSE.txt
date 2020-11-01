@@ -16,6 +16,15 @@ object-assign
    */
 
 /*!
+   Transformation Matrix v2.0
+   (c) Epistemex 2014-2015
+   www.epistemex.com
+   By Ken Fyrstenberg
+   Contributions by leeoniya.
+   License: MIT, header required.
+   */
+
+/*!
  * jQuery JavaScript Library v3.5.1
  * https://jquery.com/
  *
