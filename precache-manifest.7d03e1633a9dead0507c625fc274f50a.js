@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6912e2ea033a1152b10c7f1cfb750dad",
+    "revision": "f295315a29c819e8feb3b33c22748a3c",
     "url": "/ultimodl/index.html"
   },
   {
-    "revision": "70394c131c87f38aa42c",
+    "revision": "89df0c29e509c1399f53",
     "url": "/ultimodl/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "de9233b1ce33c635bdcc",
-    "url": "/ultimodl/static/css/main.3cc7b1e2.chunk.css"
+    "revision": "097e2a10905dab2806e2",
+    "url": "/ultimodl/static/css/main.29aa2dc8.chunk.css"
   },
   {
-    "revision": "70394c131c87f38aa42c",
-    "url": "/ultimodl/static/js/2.3f6a1e71.chunk.js"
+    "revision": "89df0c29e509c1399f53",
+    "url": "/ultimodl/static/js/2.97643908.chunk.js"
   },
   {
     "revision": "223dc0c285f32647d355613b5f5cd248",
-    "url": "/ultimodl/static/js/2.3f6a1e71.chunk.js.LICENSE.txt"
+    "url": "/ultimodl/static/js/2.97643908.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de9233b1ce33c635bdcc",
-    "url": "/ultimodl/static/js/main.a10220ab.chunk.js"
+    "revision": "097e2a10905dab2806e2",
+    "url": "/ultimodl/static/js/main.1adc4396.chunk.js"
   },
   {
     "revision": "28ea11847a5db4607625",
@@ -96,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ultimodl/static/media/chain.b986936a.png"
   },
   {
+    "revision": "5fba5b1cc266dab50bd44f56d18da5f1",
+    "url": "/ultimodl/static/media/chess_knight.5fba5b1c.svg"
+  },
+  {
     "revision": "d657b5fa243b0ce4c749daa43d93f305",
     "url": "/ultimodl/static/media/cpanel.d657b5fa.gif"
   },
@@ -129,10 +133,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "2de2890196ba34c2104e7d783adb09e2",
-    "url": "/ultimodl/static/media/safety.2de28901.gif"
-  },
-  {
-    "revision": "2de2890196ba34c2104e7d783adb09e2",
     "url": "/ultimodl/static/media/safty.2de28901.gif"
   },
   {
@@ -146,5 +146,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2d653088c72f2cdab8d08088f049b29",
     "url": "/ultimodl/static/media/transport.c2d65308.jpg"
+  },
+  {
+    "revision": "198a560ae8fbae7892bb84507820f12a",
+    "url": "/ultimodl/static/media/whiteLabel.198a560a.svg"
   }
 ]);

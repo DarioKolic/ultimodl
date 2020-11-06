@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ultimodl/static/css/main.3cc7b1e2.chunk.css",
-    "main.js": "/ultimodl/static/js/main.a10220ab.chunk.js",
-    "main.js.map": "/ultimodl/static/js/main.a10220ab.chunk.js.map",
+    "main.css": "/ultimodl/static/css/main.29aa2dc8.chunk.css",
+    "main.js": "/ultimodl/static/js/main.1adc4396.chunk.js",
+    "main.js.map": "/ultimodl/static/js/main.1adc4396.chunk.js.map",
     "runtime-main.js": "/ultimodl/static/js/runtime-main.03434b96.js",
     "runtime-main.js.map": "/ultimodl/static/js/runtime-main.03434b96.js.map",
     "static/css/2.4707e12a.chunk.css": "/ultimodl/static/css/2.4707e12a.chunk.css",
-    "static/js/2.3f6a1e71.chunk.js": "/ultimodl/static/js/2.3f6a1e71.chunk.js",
-    "static/js/2.3f6a1e71.chunk.js.map": "/ultimodl/static/js/2.3f6a1e71.chunk.js.map",
+    "static/js/2.97643908.chunk.js": "/ultimodl/static/js/2.97643908.chunk.js",
+    "static/js/2.97643908.chunk.js.map": "/ultimodl/static/js/2.97643908.chunk.js.map",
     "index.html": "/ultimodl/index.html",
-    "precache-manifest.5cb035b148aba8214f84a2c8d98477d9.js": "/ultimodl/precache-manifest.5cb035b148aba8214f84a2c8d98477d9.js",
+    "precache-manifest.7d03e1633a9dead0507c625fc274f50a.js": "/ultimodl/precache-manifest.7d03e1633a9dead0507c625fc274f50a.js",
     "service-worker.js": "/ultimodl/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/ultimodl/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.3cc7b1e2.chunk.css.map": "/ultimodl/static/css/main.3cc7b1e2.chunk.css.map",
-    "static/js/2.3f6a1e71.chunk.js.LICENSE.txt": "/ultimodl/static/js/2.3f6a1e71.chunk.js.LICENSE.txt",
+    "static/css/main.29aa2dc8.chunk.css.map": "/ultimodl/static/css/main.29aa2dc8.chunk.css.map",
+    "static/js/2.97643908.chunk.js.LICENSE.txt": "/ultimodl/static/js/2.97643908.chunk.js.LICENSE.txt",
     "static/media/1.PNG": "/ultimodl/static/media/1.5ad8014f.PNG",
     "static/media/2.png": "/ultimodl/static/media/2.ba615045.png",
     "static/media/3.png": "/ultimodl/static/media/3.32b9bffe.png",
@@ -31,7 +31,7 @@
     "static/media/building.gif": "/ultimodl/static/media/building.fe470e55.gif",
     "static/media/c.png": "/ultimodl/static/media/c.8a8193a9.png",
     "static/media/chain.png": "/ultimodl/static/media/chain.b986936a.png",
-    "static/media/cpanel.gif": "/ultimodl/static/media/cpanel.d657b5fa.gif",
+    "static/media/chess_knight.svg": "/ultimodl/static/media/chess_knight.5fba5b1c.svg",
     "static/media/cycle.jpg": "/ultimodl/static/media/cycle.808206b1.jpg",
     "static/media/d.png": "/ultimodl/static/media/d.7b04fa64.png",
     "static/media/dashboard.gif": "/ultimodl/static/media/dashboard.e452d80f.gif",
@@ -39,16 +39,16 @@
     "static/media/logo.png": "/ultimodl/static/media/logo.bbc707b7.png",
     "static/media/mobile.gif": "/ultimodl/static/media/mobile.d093a231.gif",
     "static/media/parts.png": "/ultimodl/static/media/parts.d0ed79ca.png",
-    "static/media/safety.gif": "/ultimodl/static/media/safety.2de28901.gif",
     "static/media/shape.svg": "/ultimodl/static/media/shape.0af86393.svg",
     "static/media/train.gif": "/ultimodl/static/media/train.a9c77ce9.gif",
-    "static/media/transport.jpg": "/ultimodl/static/media/transport.c2d65308.jpg"
+    "static/media/transport.jpg": "/ultimodl/static/media/transport.c2d65308.jpg",
+    "static/media/whiteLabel.svg": "/ultimodl/static/media/whiteLabel.198a560a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.03434b96.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.3f6a1e71.chunk.js",
-    "static/css/main.3cc7b1e2.chunk.css",
-    "static/js/main.a10220ab.chunk.js"
+    "static/js/2.97643908.chunk.js",
+    "static/css/main.29aa2dc8.chunk.css",
+    "static/js/main.1adc4396.chunk.js"
   ]
 }
