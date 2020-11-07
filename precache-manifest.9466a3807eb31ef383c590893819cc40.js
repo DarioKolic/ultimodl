@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9d2c700584bc76a3d0599cf06839e9e",
+    "revision": "112d31a79ff3efe45913fb1fd6449464",
     "url": "/ultimodl/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ultimodl/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "a7b92d4310dd3dd89d1f",
-    "url": "/ultimodl/static/css/main.c939264a.chunk.css"
+    "revision": "9ebb18d25ff1369366c7",
+    "url": "/ultimodl/static/css/main.3612dde1.chunk.css"
   },
   {
     "revision": "89df0c29e509c1399f53",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ultimodl/static/js/2.97643908.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7b92d4310dd3dd89d1f",
+    "revision": "9ebb18d25ff1369366c7",
     "url": "/ultimodl/static/js/main.2fe52039.chunk.js"
   },
   {
