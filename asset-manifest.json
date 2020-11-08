@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ultimodl/static/css/main.3f847482.chunk.css",
+    "main.css": "/ultimodl/static/css/main.4b08c82c.chunk.css",
     "main.js": "/ultimodl/static/js/main.673c455b.chunk.js",
     "main.js.map": "/ultimodl/static/js/main.673c455b.chunk.js.map",
     "runtime-main.js": "/ultimodl/static/js/runtime-main.03434b96.js",
@@ -9,10 +9,10 @@
     "static/js/2.97643908.chunk.js": "/ultimodl/static/js/2.97643908.chunk.js",
     "static/js/2.97643908.chunk.js.map": "/ultimodl/static/js/2.97643908.chunk.js.map",
     "index.html": "/ultimodl/index.html",
-    "precache-manifest.beebe9816e02a1a2682f848ce174cc63.js": "/ultimodl/precache-manifest.beebe9816e02a1a2682f848ce174cc63.js",
+    "precache-manifest.3ac5cd1224f59ed69b7b59a2ac344d18.js": "/ultimodl/precache-manifest.3ac5cd1224f59ed69b7b59a2ac344d18.js",
     "service-worker.js": "/ultimodl/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/ultimodl/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.3f847482.chunk.css.map": "/ultimodl/static/css/main.3f847482.chunk.css.map",
+    "static/css/main.4b08c82c.chunk.css.map": "/ultimodl/static/css/main.4b08c82c.chunk.css.map",
     "static/js/2.97643908.chunk.js.LICENSE.txt": "/ultimodl/static/js/2.97643908.chunk.js.LICENSE.txt",
     "static/media/1.PNG": "/ultimodl/static/media/1.5ad8014f.PNG",
     "static/media/2.png": "/ultimodl/static/media/2.ba615045.png",
@@ -48,7 +48,7 @@
     "static/js/runtime-main.03434b96.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.97643908.chunk.js",
-    "static/css/main.3f847482.chunk.css",
+    "static/css/main.4b08c82c.chunk.css",
     "static/js/main.673c455b.chunk.js"
   ]
 }
