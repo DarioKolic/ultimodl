@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ultimodl/static/css/main.55512178.chunk.css",
-    "main.js": "/ultimodl/static/js/main.cbb179f4.chunk.js",
-    "main.js.map": "/ultimodl/static/js/main.cbb179f4.chunk.js.map",
+    "main.css": "/ultimodl/static/css/main.023b0f68.chunk.css",
+    "main.js": "/ultimodl/static/js/main.15c18ed6.chunk.js",
+    "main.js.map": "/ultimodl/static/js/main.15c18ed6.chunk.js.map",
     "runtime-main.js": "/ultimodl/static/js/runtime-main.03434b96.js",
     "runtime-main.js.map": "/ultimodl/static/js/runtime-main.03434b96.js.map",
     "static/css/2.4707e12a.chunk.css": "/ultimodl/static/css/2.4707e12a.chunk.css",
-    "static/js/2.f5796e3b.chunk.js": "/ultimodl/static/js/2.f5796e3b.chunk.js",
-    "static/js/2.f5796e3b.chunk.js.map": "/ultimodl/static/js/2.f5796e3b.chunk.js.map",
+    "static/js/2.5bbc215d.chunk.js": "/ultimodl/static/js/2.5bbc215d.chunk.js",
+    "static/js/2.5bbc215d.chunk.js.map": "/ultimodl/static/js/2.5bbc215d.chunk.js.map",
     "index.html": "/ultimodl/index.html",
-    "precache-manifest.84038927faba476aa5075ace55758fc3.js": "/ultimodl/precache-manifest.84038927faba476aa5075ace55758fc3.js",
+    "precache-manifest.a92b378bf66c167d91d4e6bd3171396e.js": "/ultimodl/precache-manifest.a92b378bf66c167d91d4e6bd3171396e.js",
     "service-worker.js": "/ultimodl/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/ultimodl/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.55512178.chunk.css.map": "/ultimodl/static/css/main.55512178.chunk.css.map",
-    "static/js/2.f5796e3b.chunk.js.LICENSE.txt": "/ultimodl/static/js/2.f5796e3b.chunk.js.LICENSE.txt",
+    "static/css/main.023b0f68.chunk.css.map": "/ultimodl/static/css/main.023b0f68.chunk.css.map",
+    "static/js/2.5bbc215d.chunk.js.LICENSE.txt": "/ultimodl/static/js/2.5bbc215d.chunk.js.LICENSE.txt",
     "static/media/1.PNG": "/ultimodl/static/media/1.5ad8014f.PNG",
     "static/media/2.png": "/ultimodl/static/media/2.ba615045.png",
     "static/media/3.png": "/ultimodl/static/media/3.32b9bffe.png",
@@ -48,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.03434b96.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.f5796e3b.chunk.js",
-    "static/css/main.55512178.chunk.css",
-    "static/js/main.cbb179f4.chunk.js"
+    "static/js/2.5bbc215d.chunk.js",
+    "static/css/main.023b0f68.chunk.css",
+    "static/js/main.15c18ed6.chunk.js"
   ]
 }
